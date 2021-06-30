@@ -8,7 +8,7 @@ Valine Admin 是 [Valine 评论系统](https://deserts.io/diy-a-comment-system/)
 
 ## 快速部署
 
- 1. 在[Leancloud](https://leancloud.cn/dashboard/#/apps)云引擎设置界面，填写代码库并保存：https://github.com/DesertsP/Valine-Admin.git
+ 1. 在[Leancloud](https://leancloud.cn/dashboard/#/apps)云引擎设置界面，填写代码库并保存：https://github.com/GhoulOwl/Valine-Admin.git
 
 ![设置仓库](https://cdn.jsdelivr.net/gh/HCLonely/Valine-Admin@master/demo/ping-mu-kuai-zhao-2018-09-15-xia-wu-12-56-04.png)
 
